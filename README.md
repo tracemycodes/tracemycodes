@@ -1,4 +1,8 @@
-### Hi there 👋
+[![Agba's GitHub Banner](./assets/Agbabannerimage.png)]
+
+### Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
 
 <!--
 **tracemycodes/tracemycodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Agba's GitHub Banner](./assets/Agbabannerimage.png)]
 
 [![Visits Badge](https://badges.pufler.dev/visits/tracemycodes/tracemycodes)]
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
