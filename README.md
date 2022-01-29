@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Agba's GitHub Banner](./assets/Agba banner image.png)]
+[![Agba's GitHub Banner](./assets/Agbabannerimage.png)]
