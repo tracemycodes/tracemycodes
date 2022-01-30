@@ -35,10 +35,19 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <a href="https://github.com/tracemycodes"><img align="left" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Agba's GitHub Stats" /></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?tracemycodes&" alt="tracemycodes" />
-
 <!-- [![Top Chart](https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/tracemycodes/github-readme-stats) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/tracemycodes/github-readme-stats)
 
 <br>
+
+<br/>
+<p align="left">
+  <a href="https://tracemycodes.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tracemycodes.dev)
