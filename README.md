@@ -12,7 +12,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <br>
 
-<img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
+<img align="right" width="50%" height="300px" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
 
 <br>
 
@@ -42,4 +42,6 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 </p>
 <br>
 
-[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tracemycodes.dev)
+<!-- [![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tracemycodes.dev) -->
+
+[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark)](https://tracemycodes.dev)
