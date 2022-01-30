@@ -20,9 +20,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate Web Development Related Projects .
 - 💬 Ask me about Anything, I am happy to help.
-- 📫 How to reach me:
-  - Personal: agbaemmanuel11@gmail.com
-  - Work: tracemycodes@gmail.com
+- 📫 How to reach me: tracemycodes@gmail.com
 - 😄 Pronouns: He/They.
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
@@ -37,8 +35,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 <p align="left">
   <a href="https://tracemycodes.dev/">
   <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-    <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=react-dark&hide_border=true" />
+    <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=prussian&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=holi-theme&hide_border=true" />
 
   </a>
 </p>
