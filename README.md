@@ -14,6 +14,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
 
+<br>
+
 - 🔭 I’m currently working on a collaborative project.
 - 🌱 I’m currently learning Data Structures and Algorithms.
 - 👯 I’m looking to collaborate Web Development Related Projects .
@@ -36,10 +38,10 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
   <a href="https://tracemycodes.dev/">
   <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&theme=gruvbox&hide_border=true" /> -->
     <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=react-dark&hide_border=true" />
 
   </a>
 </p>
 <br>
 
-[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tracemycodes.dev)
+[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://tracemycodes.dev)
