@@ -35,8 +35,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 <p align="left">
   <a href="https://git.io/streak-stats">
   <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-  <!-- <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=prussian&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
-    <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=react-dark" />
+  <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=prussian&title_color=5BCDEC&text_color=FFFEFE&icon_color=4AB197&bg_color=0D1117" />
+    <!-- <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=react-dark" /> -->
     <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
 
   </a>
