@@ -11,9 +11,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
 
 <br>
-<br>
 
-<img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0">
+<img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
 
 - 🔭 I’m currently working on a collaborative project.
 - 🌱 I’m currently learning Data Structures and Algorithms.
@@ -27,7 +26,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <br clear="right"/>
 <br>
-## &#x1f4c8; GitHub Stats
+### &#x1f4c8; GitHub Stats
 
 <br>
 
