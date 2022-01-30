@@ -1,6 +1,6 @@
-[![Agba's GitHub Banner](./assets/Agbabannerimage.png)]
+[![Agba's GitHub Banner](./assets/Agbabannerimage.png)](https://tracemycodes.dev)
 
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
 
@@ -24,9 +24,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 - 😄 Pronouns: He/They.
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
-<br clear="right">
+<br clear="right"/>
 <br>
-
 ### &#x1f4c8; GitHub Stats
 
 <br>
