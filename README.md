@@ -4,7 +4,7 @@
 
 I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
 
-![Profile-views](https://Profile-views-badge.glitch.me/badge?page_id=tracemycodes)
+![views](https://views-badge.glitch.me/badge?page_id=tracemycodes)
 [![Profile-Views Badge](https://badges.pufler.dev/visits/tracemycodes/tracemycodes)](https:tracemycodes.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba-4565bb228)
