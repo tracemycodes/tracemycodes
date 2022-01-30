@@ -35,8 +35,9 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 <p align="left">
   <a href="https://tracemycodes.dev/">
   <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=tracemycodes&show_icons=true&theme=gruvbox&hide_border=true" /> -->
-    <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=prussian&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=holi-theme&hide_border=true" />
+  <!-- <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=prussian&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
+    <img width="49.5%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&layout=compact&theme=react-dark" />
+    <img width="49.5%" height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=tracemycodes&theme=react-dark&hide_border=true" />
 
   </a>
 </p>
