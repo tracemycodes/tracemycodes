@@ -26,8 +26,8 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <br clear="right"/>
 <br>
-## GitHub Stats &#x1f4c8;
-
+## Git Stats &#x1f4c8;
+<br>
 <!-- <a href="https://github.com/tracemycodes">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tracemycodes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>  -->
