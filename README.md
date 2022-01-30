@@ -26,7 +26,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 <br clear="right"/>
 <br>
-### &#x1f4c8; GitHub Stats
+## GitHub Stats &#x1f4c8;
 
 <br>
 
