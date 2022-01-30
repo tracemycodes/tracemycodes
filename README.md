@@ -1,9 +1,10 @@
 [![Agba's GitHub Banner](./assets/Agbabannerimage.png)](https://tracemycodes.dev)
 
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
 I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
 
+![Profile-views](https://visitor-badge.glitch.me/badge?page_id=tracemycodes)
 [![Profile-Views Badge](https://badges.pufler.dev/visits/tracemycodes/tracemycodes)](https:tracemycodes.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba-4565bb228)
@@ -12,7 +13,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 <br>
 <br>
 
-<img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="1px solid green">
+<img align="right" width="50%" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0">
 
 - 🔭 I’m currently working on a collaborative project.
 - 🌱 I’m currently learning Data Structures and Algorithms.
