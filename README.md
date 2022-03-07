@@ -1,4 +1,4 @@
-[![Agba's GitHub Banner](./assets/Agbabannerimage.png)](https://tracemycodes.dev)
+[![Agba's GitHub Banner](./assets/Agbabannerimage.png)]
 
 ## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 
