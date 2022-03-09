@@ -6,8 +6,6 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 
 ![views](https://views-badge.glitch.me/badge?page_id=tracemycodes)
 
-<!-- [![Profile-Views Badge](https://badges.pufler.dev/visits/tracemycodes/tracemycodes)](https:tracemycodes.dev) -->
-
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba-4565bb228)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
@@ -24,7 +22,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 - 😄 Pronouns: He/They.
 - ⚡ Fun fact: It’s all 0’s and 1’s.
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-233826%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-333826%20lines%20of%20code-blue)
 
 <br clear="right"/>
 
@@ -39,6 +37,6 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 </p>
 <br>
 
-[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark)](https://tracemycodes.dev)
+[![Agba Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=tracemycodes&custom_title=Trace_it%20Trips's%20Contribution%20Graph&theme=react-dark)]
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
