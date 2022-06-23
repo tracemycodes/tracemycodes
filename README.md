@@ -1,6 +1,6 @@
 ![Agba's GitHub Banner](./assets/Agbabannerimage.png)
 
-## Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="5px">
+## Hi there 👋
 
 I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
 
@@ -38,4 +38,4 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 </p>
 <br>
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="5px">&nbsp;
+## Skills &nbsp;
