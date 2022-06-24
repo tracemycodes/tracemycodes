@@ -59,7 +59,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>ReactJs, MongoDB, Node.js, & Express.js</strong> - Application that helps you save all of you contact information and distinguish between professional and personal contacts.</p>
+        <p><strong>ReactJs, MongoDB, Node.js, & Express.js</strong> - A Full-stack web application that provides a Database that save's all of your professional and personal contact information, with CRUD functionality and responsive design.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">E-commerce Product Page</h3>
@@ -77,7 +77,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, SCSS, OOP</strong> - An fully responsive E-commerce page built with the principles of Object Oriented Programming, Displaying multiple carousel elements and LightBox component.</p>
+        <p><strong>Javascript, SCSS, OOP</strong> - A fully responsive E-commerce page built with the principles of Object Oriented Programming, Displaying multiple carousel elements, LightBox component, while actualizing user experience.</p>
     </td>
   </tr>
   
@@ -97,7 +97,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>ReactJs, Style-Components, Axios</strong> - An informative web application, Displaying basic information about countries around the globe, useful whenever you're considering going on your next vacation.</p>
+        <p><strong>ReactJs, Style-Components, Axios</strong> - An informative web application, displaying basic information about countries around the globe, useful whenever you're considering going on your next vacation trip. 	&#128515;</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">IP Address Tracker</h3>
@@ -115,7 +115,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, Javascript, MapBox, & Leaflet</strong> -Get location details on an interactive map of and IP address inserted</p>
+        <p><strong>HTML5, CSS3, Javascript, MapBox, & Leaflet</strong> - AI project, detecting the location details on an interactive map of any valid IP address using Geo-location</p>
     </td>
   </tr>
 </table>
