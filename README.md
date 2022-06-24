@@ -38,4 +38,84 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 </p>
 <br>
 
-## Skills &nbsp;
+## Projects &#127959;
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Contact Keeper</h3>
+        <br />
+        <a target="_blank" href="">
+            <img src="" width="100%" alt="Contact Keeper"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/tracemycodes/fullstack_contact_keeper_webapp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJs, MongoDB, Node.js, & Express.js</strong> - Application that helps you save all of you contact information and distinguish between professional and personal contacts.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">E-commerce Product Page</h3>
+        <br />
+      <a target="_blank" href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/tracemycodes/E-commerce-product-page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, SCSS, OOP</strong> - An fully responsive E-commerce page built with the principles of Object Oriented Programming, Displaying multiple carousel elements and LightBox component.</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Countries API</h3>
+      <br />
+        <a target="_blank" href="https://agba-tracemycodes-ip-address-tracker.netlify.app/">
+          <img src="./assets/countries_api.gif" width="100%" alt="Countries Api"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/tracemycodes/countries_api_info_reactapp" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>ReactJs, Style-Components, Axios</strong> - An informative web application, Displaying basic information about countries around the globe, useful whenever you're considering going on your next vacation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">IP Address Tracker</h3>
+        <br />
+        <a target="_blank" href="https://agba-tracemycodes-ip-address-tracker.netlify.app/">
+          <img src="./assets/ipaddress.gif" width="100%" alt="Ip Tracker"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/tracemycodes/IP-Address-Tracker" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, Javascript, MapBox, & Leaflet</strong> -Get location details on an interactive map of and IP address inserted</p>
+    </td>
+  </tr>
+</table>
