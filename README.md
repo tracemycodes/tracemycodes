@@ -85,7 +85,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
     <td width="50%" valign="top">
       <h3 align="center">Countries API</h3>
       <br />
-        <a target="_blank" href="https://agba-tracemycodes-ip-address-tracker.netlify.app/">
+        <a target="_blank" href="https://app.netlify.com/sites/agba-countries-api">
           <img src="./assets/countries_api.gif" width="100%" alt="Countries Api"/>
         </a>
       <br />
@@ -93,7 +93,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
   <a href="https://github.com/tracemycodes/countries_api_info_reactapp" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
+  <a href="https://app.netlify.com/sites/agba-countries-api" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
