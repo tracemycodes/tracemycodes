@@ -1,5 +1,9 @@
 ![Agba's GitHub Banner](./assets/Agbabannerimage.png)
 
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=1CA2F1&vCenter=true&center=true&width=460&lines=I'm+Emmanuel+Agba;Software+Engineer">
+<br>
+
 ## Hi there 👋
 
 I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
@@ -12,16 +16,7 @@ I’m Agba (Trace_it), I design, build, and implement user interface for website
 [![CodeWars Badge](https://img.shields.io/badge/CodeWars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red)](https://www.codewars.com/users/tracemycodes)
 
 <br>
-<img align="right" width="50%" height="350px" src="https://i.ibb.co/b2s4dQp/animation-500-kxa883sd.gif" alt="animatedimage" border="0" margin-top="-20px">
-<br>
-
-- 🔭 I’m currently working on a collaborative project.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate in Web Development Related Projects .
-- 💬 Ask me about Anything, I am happy to help.
-- 📫 How to reach me: tracemycodes@gmail.com
-- 😄 Pronouns: He/They.
-- ⚡ Fun fact: It’s all 0’s and 1’s.
+<img
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733826%20lines%20of%20code-blue)
 
