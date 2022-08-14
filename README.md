@@ -18,7 +18,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
   <!-- Stats -->
 <h1 align="center">Code Stats</h1>
 <div align="center">
- <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=00a6fb&ring=00a6fb&sideNums=FFFEFE" />
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=00a6fb&sideNums=FFFEFE" />
 </div>
 </br>
 
@@ -50,9 +50,41 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
 [![CodeWars Badge](https://img.shields.io/badge/CodeWars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red)](https://www.codewars.com/users/tracemycodes) -->
-
-<br>
-<img
+<h1 align="center">Projects &#127959</h1>
+    <td width="50%" valign="top">
+      <h3 align="center">E-commerce Product Page</h3>
+      <br />
+        <a target="_blank" href="https://webmekanic.github.io/Ecommerce-Product-Page/">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+      <br />
+   <p align="center">   
+   <a href="https://github.com/Webmekanic/Ecommerce-Product-Page" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+  </a>
+  <a href="https://webmekanic.github.io/Ecommerce-Product-Page/" target="blank">
+   <img src="https://img.shields.io/badge/Website-164C78?style=plastic&logo=wordpress" height=25>
+  </a> 
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - A responsive E-commerce product page with lightbox gallery and Cart Functionality.</p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">Developer Finder</h3>
+        <br />
+        <a target="_blank" href="https://github.com/Webmekanic/Developer-finder">
+          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
+        </a>
+        <br />
+         <p align="center">   
+   <a href="https://github.com/Webmekanic/Developer-finder" target="_blank">
+     <img src="https://img.shields.io/badge/Repo-164C78?style=plastic&logo=github" height=25>
+  </a>
+      </p>
+        <p><strong>HTML5, HTTP, REST, Vercel, ContextAPIs, Javascript, Tailwind, Daisy Ui </strong>
+            -  A platform that uses that uses GitHub API to fetch user data from the GitHub database and display a user's information.</p>
+    </td>
+  </tr>
+</table>
 
 <!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733826%20lines%20of%20code-blue)
 
@@ -69,10 +101,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 </p>
 <br> -->
 
-## Projects &#127959;
-
-<table bordercolor="#66b2b2">
-  
+<table bordercolor="#66b2b2">  
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Contact Keeper</h3>
