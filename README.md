@@ -18,7 +18,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
   <!-- Stats -->
 <h1 align="center">Code Stats</h1>
 <div align="center">
- <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=00a6fb&sideNums=FFFEFE" />
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=00a6fb&ring=00a6fb&sideNums=FFFEFE" />
 </div>
 </br>
 
