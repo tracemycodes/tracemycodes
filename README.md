@@ -9,7 +9,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">   
-    <a href="https://emmanuelagba-c9e45.web.app/"><img src="https://img.shields.io/badge/LinkedIn-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
+    <a href="https://emmanuelagba-c9e45.web.app/"><img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
     <a href="https://www.linkedin.com/in/emmanuel-agba/"><img src="https://img.shields.io/badge/LinkedIn-0093dd?style=plastic&logo=linkedin" height=22></a>
     <a href="mailto:tracemycodes@gmail.com"><img src="https://img.shields.io/badge/Email-0093dd?style=plastic&logo=gmail&logoColor=ffffff" height=22></a>
     <a href="https://twitter.com/trace__it"><img src="https://img.shields.io/badge/Twitter-0093dd?&style=plastic&logo=twitter&logoColor=ffffff" height=22></a>   
@@ -129,7 +129,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 
 <h1 align="center">Connect</h1>
   <p align="center">   
-    <a href="https://emmanuelagba-c9e45.web.app/"><img src="https://img.shields.io/badge/LinkedIn-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
+    <a href="https://emmanuelagba-c9e45.web.app/"><img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=react&logoColor=ffffff" height=22></a>
     <a href="https://www.linkedin.com/in/emmanuel-agba/"><img src="https://img.shields.io/badge/LinkedIn-0093dd?style=plastic&logo=linkedin" height=22></a>
     <a href="mailto:tracemycodes@gmail.com"><img src="https://img.shields.io/badge/Email-0093dd?style=plastic&logo=gmail&logoColor=ffffff" height=22></a>
     <a href="https://twitter.com/trace__it"><img src="https://img.shields.io/badge/Twitter-0093dd?&style=plastic&logo=twitter&logoColor=ffffff" height=22></a>   
