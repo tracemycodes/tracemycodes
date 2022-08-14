@@ -22,6 +22,30 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 </div>
 </br>
 
+<h1 align="center">Technologies</h1>
+   <p align="center">
+      <img src="https://img.shields.io/badge/HTML5-00a6fb?style=plastic&logo=html5" height=22>
+      <img src="https://img.shields.io/badge/CSS3-00a6fb?style=plastic&logo=css3&logoColor=2388C3" height=22>
+      <img src="https://img.shields.io/badge/SaSS-00a6fb?style=plastic&logo=sass" height=22>
+      <img src="https://img.shields.io/badge/Bootstrap-00a6fb?style=plastic&logo=bootstrap" height=22>
+      <img src="https://img.shields.io/badge/JavaScript-00a6fb?style=plastic&logo=javascript" height=22>
+      <img src="https://img.shields.io/badge/Node.js-00a6fb?style=plastic&logo=nodedotjs" height=22>
+      <img src="https://img.shields.io/badge/React-00a6fb?style=plastic&logo=react" height=22>
+      <img src="https://img.shields.io/badge/Express.js-00a6fb?style=plastic&logo=express&logoColor=000000" height=22>
+      <img src="https://img.shields.io/badge/MongoDB-00a6fb?style=plastic&logo=mongodb" height=22>
+      <img src="https://img.shields.io/badge/Linear-00a6fb?style=plastic&logo=linear" height=22>
+      <img src="https://img.shields.io/badge/Redux-00a6fb?style=plastic&logo=redux&logoColor=764ABC" height=22>
+      <img src="https://img.shields.io/badge/Typescript-00a6fb?style=plastic&logo=typescript" height=22>
+      <img src="https://img.shields.io/badge/Figma-00a6fb?style=plastic&logo=figma" height=22>
+      <img src="https://img.shields.io/badge/Json-00a6fb?style=plastic&logo=json" height=22>
+      <img src="https://img.shields.io/badge/Visual_Studio-00a6fb?style=plastic&logo=visual%20studio&logoColor=007ACC" height=22>
+      <img src="https://img.shields.io/badge/GIT-00a6fb?style=plastic&logo=git" height=22>
+      <img src="https://img.shields.io/badge/Firebase-00a6fb?style=plastic&logo=firebase" height=22>
+      <img src="https://img.shields.io/badge/AWS-00a6fb?style=plastic&logo=amazon" height=22>
+      <img src="https://img.shields.io/badge/Webpack-00a6fb?style=plastic&logo=webpack" height=22>
+      <img src="https://img.shields.io/badge/Jira-00a6fb?style=plastic&logo=jiraSoftware" height=22>
+    </p>
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
