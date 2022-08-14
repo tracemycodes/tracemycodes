@@ -4,16 +4,23 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=5500&color=1CA2F1&vCenter=true&center=true&width=460&lines=I'm+Emmanuel+Agba;Software+Engineer">
 <br>
 
-## Hi there 👋
-
-I’m Agba (Trace_it), I design, build, and implement user interface for websites, software programs, and web-based applications.
+Hi there 👋 I’m a Fullstack developer, I design, build, implement user interface for websites, software programs, and web-based applications. I am currently open to any new clients or opportunities.
 
 ![views](https://views-badge.glitch.me/badge?page_id=tracemycodes)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
+<!-- SOCIALS -->
+<h1 align="center">Contact Me</h1>
+  <p align="center">   
+    <a href="https://www.linkedin.com/in/emmanuel-agba/"><img src="https://img.shields.io/badge/LinkedIn-1CA2F1?style=plastic&logo=linkedin" height=25></a>
+    <a href="mailto:tracemycodes@gmail.com"><img src="https://img.shields.io/badge/Email-1CA2F1?style=plastic&logo=gmail" height=25></a>
+    <a href="https://twitter.com/trace__it"><img src="https://img.shields.io/badge/Twitter-164C78?&style=plastic&logo=twitter" height=25></a>   
+    <a href="https://www.codewars.com/users/tracemycodes"><img src="https://img.shields.io/badge/Codewars-164C78?style=plastic&logo=Codewars&logoColor=B1361E" height=25></a>
+  </p>
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
-[![CodeWars Badge](https://img.shields.io/badge/CodeWars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red)](https://www.codewars.com/users/tracemycodes)
+[![CodeWars Badge](https://img.shields.io/badge/CodeWars-Profile-informational?style=flat&logo=codewars&logoColor=white&color=red)](https://www.codewars.com/users/tracemycodes) -->
 
 <br>
 <img
