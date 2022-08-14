@@ -12,9 +12,9 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 <h1 align="center">Contact Me</h1>
   <p align="center">   
     <a href="https://www.linkedin.com/in/emmanuel-agba/"><img src="https://img.shields.io/badge/LinkedIn-00a6fb?style=plastic&logo=linkedin" height=22></a>
-    <a href="mailto:tracemycodes@gmail.com"><img src="https://img.shields.io/badge/Email-00a6fb?style=plastic&logo=gmail" height=22></a>
-    <a href="https://twitter.com/trace__it"><img src="https://img.shields.io/badge/Twitter-00a6fb?&style=plastic&logo=twitter" height=20></a>   
-    <a href="https://www.codewars.com/users/tracemycodes"><img src="https://img.shields.io/badge/Codewars-00a6fb?style=plastic&logo=Codewars&logoColor=B1361E" height=23></a>
+    <a href="mailto:tracemycodes@gmail.com"><img src="https://img.shields.io/badge/Email-00a6fb?style=plastic&logo=gmail&logoColor=ffffff" height=22></a>
+    <a href="https://twitter.com/trace__it"><img src="https://img.shields.io/badge/Twitter-00a6fb?&style=plastic&logo=twitter&logoColor=ffffff" height=22></a>   
+    <a href="https://www.codewars.com/users/tracemycodes"><img src="https://img.shields.io/badge/Codewars-00a6fb?style=plastic&logo=Codewars&logoColor=ffffff" height=22></a>
   </p>
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
