@@ -6,8 +6,6 @@
 
 Hi there 👋 I’m a Fullstack developer, I design, build, implement user interface for websites, software programs, and web-based applications. I am currently open to any new clients or opportunities.
 
-![views](https://views-badge.glitch.me/badge?page_id=tracemycodes)
-
 <!-- SOCIALS -->
 <h1 align="center">Contact Me</h1>
   <p align="center">   
@@ -17,6 +15,13 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
     <a href="https://www.codewars.com/users/tracemycodes"><img src="https://img.shields.io/badge/Codewars-00a6fb?style=plastic&logo=Codewars&logoColor=ffffff" height=22></a>
   </p>
 
+  <!-- Stats -->
+<h1 align="center">Code Stats</h1>
+<div align="center">
+ <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
+</div>
+</br>
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/trace__it)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/emmanuel-agba)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/tracemycodes)
@@ -25,11 +30,11 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
 <br>
 <img
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733826%20lines%20of%20code-blue)
+<!-- ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-733826%20lines%20of%20code-blue)
 
-<br clear="right"/>
+<br clear="right"/> -->
 
-## Git Stats &#x1f4c8;
+<!-- ## Git Stats &#x1f4c8;
 
 <br>
 <p align="left">
@@ -38,7 +43,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
   <img width="49.5%" height="170px" src="http://github-readme-streak-stats.herokuapp.com?user=tracemycodes&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=FFFEFE&currStreakNum=FFFEFE&dates=FFFEFE&background=0D1117&ring=5BCDEC&sideNums=FFFEFE" />
   </a>
 </p>
-<br>
+<br> -->
 
 ## Projects &#127959;
 
