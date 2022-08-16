@@ -60,11 +60,9 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
         <p align="center">
           
   <a href="https://github.com/tracemycodes/fullstack_contact_keeper_webapp" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>  
   <a href="https://tracemycodes-contact-keeper.herokuapp.com" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
@@ -80,11 +78,9 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
         <p align="center">
           
   <a href="https://github.com/tracemycodes/E-commerce-product-page" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
@@ -102,11 +98,9 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
       <br />
         <p align="center">
   <a href="https://github.com/tracemycodes/countries_api_info_reactapp" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://app.netlify.com/sites/agba-countries-api" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
@@ -122,11 +116,9 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
         <p align="center">
           
   <a href="https://github.com/tracemycodes/IP-Address-Tracker" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
-    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
     <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
