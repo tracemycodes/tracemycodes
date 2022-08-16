@@ -65,7 +65,7 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
   </a>  
   <a href="https://tracemycodes-contact-keeper.herokuapp.com" target="_blank">
     <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
-    <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=25>
+    <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
         <p><strong>ReactJs, MongoDB, Node.js, & Express.js</strong> - A Full-stack web application that provides a Database that save's all of your professional and personal contact information, with CRUD functionality and responsive design.</p>
@@ -80,10 +80,12 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
         <p align="center">
           
   <a href="https://github.com/tracemycodes/E-commerce-product-page" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://agba-tracemycodes-e-commerce-product-page.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
         <p><strong>Javascript, SCSS, OOP</strong> - A fully responsive E-commerce page built with the principles of Object Oriented Programming, Displaying multiple carousel elements, LightBox component, while actualizing user experience.</p>
@@ -100,10 +102,12 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
       <br />
         <p align="center">
   <a href="https://github.com/tracemycodes/countries_api_info_reactapp" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://app.netlify.com/sites/agba-countries-api" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
         <p><strong>ReactJs, Style-Components, Axios</strong> - An informative web application, displaying basic information about countries around the globe, useful whenever you're considering going on your next vacation trip. 	&#128515;</p>
@@ -118,10 +122,12 @@ Hi there 👋 I’m a Fullstack developer, I design, build, implement user inter
         <p align="center">
           
   <a href="https://github.com/tracemycodes/IP-Address-Tracker" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Repo-0093dd?style=plastic&logo=github" height=22>
   </a>
   <a href="https://agba-tracemycodes-ip-address-tracker.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+    <!-- <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/> -->
+    <img src="https://img.shields.io/badge/Website-0093dd?style=plastic&logo=wordpress" height=22>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Javascript, MapBox, & Leaflet</strong> - AI project, detecting the location details on an interactive map of any valid IP address using Geo-location</p>
